@@ -1,4 +1,4 @@
-# Hi there, Since you've made it this far, why not take a full look at my profile?	:thinking:
+# Hi there, Since you've made it this far, why not take a full look at my profile?	
 
 ### Here are some quick infos about me :point_down:
 
