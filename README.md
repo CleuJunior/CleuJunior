@@ -8,7 +8,7 @@
 - :computer: And recently I've been studying Laravel, Spring Boot and React.
 - :card_file_box: Basic knowledge of database.
 - :iphone: I have a crush on mobile development with Java/Kotlin.
-- :smile: Fun fact: I only know two people with the same name as mine, my dad and me.
+- :smile: Fun fact: I only know two people with the same name as mine, my daddy and me.
 
 ##
 
