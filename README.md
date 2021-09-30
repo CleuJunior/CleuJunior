@@ -1,6 +1,6 @@
 # Hi there, Since you've made it this far, why not take a full look at my profile?	
 
-### Here are some quick infos about me :point_down:
+### Here are some quick infos about me
 
 - :nerd_face: My name is Cleonildo Junior, or you can just call me Junior
 - 🌱 I've been studying to be a back-end developer.
