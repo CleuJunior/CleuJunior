@@ -1,14 +1,14 @@
-# Hi there, Since you've made it this far, why not take a full look at my profile?	
+# Hi there, Since you've made it this far, why not take a full look at my profile?	:blush:
 
-### Here are some quick infos about me
+### Here are some quick infos about me :point_down:
 
-- :nerd_face: My name is Cleonildo Junior, or you can just call me Junior
-- 🌱 I've been studying to be a back-end developer.
+- :v: My name is Cleonildo Junior, or you can just call me Junior
+- :nerd_face: I've been studying to be a back-end developer.
 - :mortar_board: The languages I have the most experience are PHP and Java.
 - :computer: And recently I've been studying Laravel, Spring Boot and React.
-- :card_file_box: Basic knowledge of database.
+- :floppy_disk: Basic knowledge of database.
 - :iphone: I have a crush on mobile development with Java/Kotlin.
-- :smile: Fun fact: I only know two people with the same name as mine, my daddy and me.
+- :thinking: Fun fact: I only know two people with the same name as mine, my daddy and me.
 
 ##
 
