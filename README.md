@@ -4,9 +4,9 @@
 
 - :v: My name is Cleonildo Junior, or you can just call me Junior
 - :nerd_face: I've been studying to be a back-end developer.
-- :mortar_board: The languages I have the most experience are PHP and Java.
-- :computer: And recently I've been studying Laravel, Spring Boot and React.
-- :floppy_disk: Basic knowledge of database.
+- :mortar_board: The languages I have the most experience are Java and PHP.
+- :computer: And recently I've been studying, Java with Spring Boot and doing a lot of programming challenge.
+- :floppy_disk: Some knowledge of database.
 - :iphone: I have a crush on mobile development with Java/Kotlin.
 - :thinking: Fun fact: I only know two people with the same name as mine, my daddy and me.
 
