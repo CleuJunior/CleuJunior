@@ -1,4 +1,4 @@
-👋 Hi  My name is Cleonildo Junior, but you can call my just Junior
+👋 Hi My name is Cleonildo Junior, but you can just call me Junior
 ==================================================
 
 - 🧠 I've been studying to be a back-end developer.
