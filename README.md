@@ -45,10 +45,8 @@
 
 ##
  ### My GitHub Stats:
- 
- </a>
 
-<a href="https://github.com/cleujunior" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cleujunior&langs_count=5&title_color=ffffff&text_color=0891b2&icon_color=ef4444&bg_color=22272e&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<a href="https://github.com/cleujunior" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cleujunior&layout=compact&langs_count=10&theme=radical&title_color=ffffff&text_color=0891b2&icon_color=ef4444&bg_color=22272e&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
  
  <a href="http://www.github.com/CleuJunior"><img src="https://github-readme-stats.vercel.app/api?username=CleuJunior&show_icons=true&hide=&count_private=true&title_color=ffffff&text_color=0891b2&icon_color=ef4444&bg_color=22272e&hide_border=true&show_icons=true" alt="CleuJunior's GitHub stats" /></a>  
  
