@@ -46,7 +46,7 @@
 ##
  ### My GitHub Stats:
  
- <a href="http://www.github.com/CleuJunior"><img src="https://github-readme-stats.vercel.app/api?username=CleuJunior&show_icons=true&hide=&count_private=true&title_color=ffffff&text_color=0891b2&icon_color=ef4444&bg_color=22272e&hide_border=true&show_icons=true" alt="CleuJunior's GitHub stats" /></a> <a href="http://www.github.com/CleuJunior"><img src="https://github-readme-streak-stats.herokuapp.com/?user=CleuJunior&stroke=0891b2&background=22272e&ring=ffffff&fire=ffffff&currStreakNum=0891b2&currStreakLabel=ffffff&sideNums=0891b2&sideLabels=0891b2&dates=0891b2&hide_border=true" /></a>
+ <a href="http://www.github.com/CleuJunior"><img src="https://github-readme-stats.vercel.app/api?username=CleuJunior&show_icons=true&hide=&count_private=true&title_color=ffffff&text_color=0891b2&icon_color=ef4444&bg_color=22272e&hide_border=true&show_icons=true" alt="CleuJunior's GitHub stats" /></a>  <a href="http://www.github.com/CleuJunior"><img src="https://github-readme-streak-stats.herokuapp.com/?user=CleuJunior&stroke=0891b2&background=22272e&ring=ffffff&fire=ffffff&currStreakNum=0891b2&currStreakLabel=ffffff&sideNums=0891b2&sideLabels=0891b2&dates=0891b2&hide_border=true" /></a>
  
  
  <a href="http://www.github.com/CleuJunior"><img src="https://activity-graph.herokuapp.com/graph?username=CleuJunior&bg_color=22272e&color=0891b2&line=ef4444&point=0891b2&area_color=22272e&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a> 
