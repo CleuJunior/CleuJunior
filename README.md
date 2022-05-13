@@ -1,13 +1,20 @@
-👋 Hi My name is Cleonildo Junior, but you can just call me Junior
+👋 Hi My name is Cleonildo Junior
 ==================================================
 
-- 🚀 I've been studying to be a better back-end developer.
-- 🧠 The languages I have the most experience are Java and PHP.
-- 🌱 I’m currently learning Java with Spring Boot, databases and doing a lot of programming challenge.
-- 👨‍💻 In my spare time I always study a little about Android development with Java.
-- ⚡ Fun fact, I only know two people with the same name as mine, my daddy and me.
 
-<h3 align="left">Backend Languages:</h3>
+
+<h3 align="center">A little bit about myself</h3><br>
+
+- 👨‍💻 I've been studying to be a better back-end developer.
+- 💡 The languages I have the most experience are Java and PHP.
+- 🌱 I’m currently learning Java with Spring Boot, databases and doing a lot of programming challenge.
+- 📱 In my spare time I always study a little about Android development with Java.
+- 😆 Fun fact, I only know two people with the same name as mine, my daddy and me.
+
+
+<br><h3 align="center">Technologies I work and study</h3><br>
+
+<h4 align="left">Backend Languages:</h4>
 <p align="left"> 
  
   <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a>  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
@@ -15,21 +22,21 @@
  
  </p>
  
-<h3 align="left">Databases:</h3>
+<h4 align="left">Databases:</h4>
 <p align="left"> 
  
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>   <a href="https://mariadb.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a>  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> 
 
 </p>
 
- <h3 align="left">Frameworks:</h3>
+ <h4 align="left">Frameworks:</h4>
 <p align="left"> 
  
  <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a>
  
  </p>
  
-  <h3 align="left">Tools and others:</h3>
+  <h4 align="left">Tools and others:</h4>
 <p align="left"> 
  
  
@@ -46,9 +53,9 @@
 ##
  ### My GitHub Stats:
 
-<a href="https://github.com/cleujunior" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cleujunior&layout=compact&langs_count=10&theme=radical&title_color=ffffff&text_color=0891b2&icon_color=ef4444&bg_color=22272e&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<a href="https://github.com/cleujunior"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cleujunior&layout=compact&langs_count=10&theme=radical&title_color=ffffff&text_color=0891b2&icon_color=ef4444&bg_color=22272e&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
  
- <a href="http://www.github.com/CleuJunior"><img src="https://github-readme-stats.vercel.app/api?username=CleuJunior&show_icons=true&hide=&count_private=true&title_color=ffffff&text_color=0891b2&icon_color=ef4444&bg_color=22272e&hide_border=true&show_icons=true" alt="CleuJunior's GitHub stats" /></a>  
+ <a href="http://www.github.com/CleuJunior"><img src="https://github-readme-stats.vercel.app/api?username=CleuJunior&show_icons=true&hide=&count_private=true&title_color=ffffff&text_color=0891b2&icon_color=ef4444&bg_color=22272e&hide_border=true&show_icons=true" alt="CleuJunior's GitHub stats" align="right"/></a>  
  
  <a href="http://www.github.com/CleuJunior"><img src="https://github-readme-streak-stats.herokuapp.com/?user=CleuJunior&stroke=0891b2&background=22272e&ring=ffffff&fire=ffffff&currStreakNum=0891b2&currStreakLabel=ffffff&sideNums=0891b2&sideLabels=0891b2&dates=0891b2&hide_border=true" /></a>
  
