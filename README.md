@@ -37,9 +37,9 @@
  <a href="https://github.com/cleujunior"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cleujunior&layout=compact&langs_count=10&theme=radical&title_color=ffffff&text_color=0891b2&icon_color=ef4444&bg_color=22272e&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages"/></a>
  
  <div align="center">
- <a href="http://www.github.com/CleuJunior"><img src="https://github-readme-stats.vercel.app/api?username=CleuJunior&show_icons=true&hide=&count_private=true&title_color=ffffff&text_color=0891b2&icon_color=ef4444&bg_color=22272e&hide_border=true&show_icons=true" alt="CleuJunior's GitHub stats" width="40%" align="left"/></a>  
+ <a href="http://www.github.com/CleuJunior"><img src="https://github-readme-stats.vercel.app/api?username=CleuJunior&show_icons=true&hide=&count_private=true&title_color=ffffff&text_color=0891b2&icon_color=ef4444&bg_color=22272e&hide_border=true&show_icons=true" alt="CleuJunior's GitHub stats" width="45%" align="left"/></a>  
  
- <a href="http://www.github.com/CleuJunior"><img src="https://github-readme-streak-stats.herokuapp.com/?user=CleuJunior&stroke=0891b2&background=22272e&ring=ffffff&fire=ffffff&currStreakNum=0891b2&currStreakLabel=ffffff&sideNums=0891b2&sideLabels=0891b2&dates=0891b2&hide_border=true" width="40%" align="center"/></a>
+ <a href="http://www.github.com/CleuJunior"><img src="https://github-readme-streak-stats.herokuapp.com/?user=CleuJunior&stroke=0891b2&background=22272e&ring=ffffff&fire=ffffff&currStreakNum=0891b2&currStreakLabel=ffffff&sideNums=0891b2&sideLabels=0891b2&dates=0891b2&hide_border=true" width="45%" align="center"/></a>
   
   </div>
   
