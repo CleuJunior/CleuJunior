@@ -6,8 +6,8 @@
 <h3 align="center">A little bit about myself</h3><br>
 
 - 👨‍💻 I've been studying to be a better back-end developer.
-- 💡 The languages I have the most experience are Java and PHP.
-- 🌱 I’m currently learning Java with Spring Boot, databases and doing a lot of programming challenge.
+- 💡 The languages I have the most experience with are Java and PHP.
+- 🌱I’m currently learning Java with Spring Boot, databases, and doing a lot of programming challenges.
 - 📱 In my spare time I always study a little about Android development with Java.
 - 😆 Fun fact, I only know two people with the same name as mine, my daddy and me.
 
