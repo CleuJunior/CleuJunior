@@ -7,7 +7,7 @@
 
 - 👨‍💻 I've been studying to be a better back-end developer.
 - 💡 The languages I have the most experience with are Java and PHP.
-- 🌱I’m currently learning Node, RabbitMQ and AWS.
+- 🌱I’m currently learning RabbitMQ and AWS.
 - 📱 In my spare time I always study a little about Android development with Java.
 - 😆 Fun fact, I only know two people with the same name as mine, my daddy and me.
 
