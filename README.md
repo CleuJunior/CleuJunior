@@ -28,15 +28,3 @@
 <a href="https://www.linkedin.com/in/cleonildo-junior"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>  <a href="https://www.facebook.com/junior.soares.1069/"><img alt="Facebook" src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white"/></a>  <a href="https://www.instagram.com/juniorsoares1990/?hl=pt-br/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/></a>  <a href="https://api.whatsapp.com/send?phone=5521999017223"><img alt="WhatsApp" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>  <a href="https://t.me/CleonildoJunior"><img alt="Telegram" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /></a>
  
 </div>
-
-<hr>
-
-<h3 align="center">My GitHub Stats:</h3><br>
-
- <div align="center">
-
- <a href="https://github.com/cleujunior"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cleujunior&layout=compact&langs_count=2&theme=radical&title_color=ffffff&text_color=0891b2&icon_color=ef4444&bg_color=22272e&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages"/></a>
- 
- <a href="http://www.github.com/CleuJunior"><img src="https://github-readme-streak-stats.herokuapp.com/?user=CleuJunior&stroke=0891b2&background=22272e&ring=ffffff&fire=ffffff&currStreakNum=0891b2&currStreakLabel=ffffff&sideNums=0891b2&sideLabels=0891b2&dates=0891b2&hide_border=true"/></a>
-  
-  </div>
